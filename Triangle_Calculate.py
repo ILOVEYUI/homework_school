@@ -33,3 +33,4 @@ if sigema.jm():
     sigema.perimeter()
     sigema.calculate((a + b + c) / 2)
     print("a=" + str(a) + "," + "b=" + str(b) + "," + "c=" + str(c))
+# ????
